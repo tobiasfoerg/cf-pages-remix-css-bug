@@ -11,9 +11,9 @@
     "wrangler": "wrangler pages dev ./public"
   },
   "dependencies": {
-    "@remix-run/cloudflare": "0.0.0-nightly-b2df1c7-20230426",
-    "@remix-run/cloudflare-pages": "0.0.0-nightly-b2df1c7-20230426",
-    "@remix-run/react": "0.0.0-nightly-b2df1c7-20230426",
+    "@remix-run/cloudflare": "1.16.0-pre.0",
+    "@remix-run/cloudflare-pages": "1.16.0-pre.0",
+    "@remix-run/react": "1.16.0-pre.0",
     "cross-env": "^7.0.3",
     "isbot": "^3.6.8",
     "react": "^18.2.0",
@@ -21,8 +21,8 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^3.19.0",
-    "@remix-run/dev": "0.0.0-nightly-b2df1c7-20230426",
-    "@remix-run/eslint-config": "0.0.0-nightly-b2df1c7-20230426",
+    "@remix-run/dev": "1.16.0-pre.0",
+    "@remix-run/eslint-config": "1.16.0-pre.0",
     "@types/react": "^18.0.35",
     "@types/react-dom": "^18.0.11",
     "eslint": "^8.38.0",
